@@ -1,9 +1,9 @@
-# Project - JOBPORTAL-BE
+# Project - CAREERBRIGDE
 Ongoing Project of MERN Stack based Online Job Portal - Server (API)
 
 ## Introduction
 
-Welcome to **Project CAREERBRIGDE**, a comprehensive backend solution for a job-seeking portal. This project aims to provide a seamless and efficient platform for job seekers and employers to connect. Job seekers can find and apply for jobs, while employers can post job listings and search for potential employees. This repository contains the server-side code, including routing, controllers, middleware, and database configurations.
+Welcome to **CAREERBRIGDE**, a comprehensive backend solution for a job-seeking portal. This project aims to provide a seamless and efficient platform for job seekers and employers to connect. Job seekers can find and apply for jobs, while employers can post job listings and search for potential employees. This repository contains the server-side code, including routing, controllers, middleware, and database configurations.
 
 ## Features
 
